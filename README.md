@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherX
 WeatherX is a simple and intuitive weather application built with React that enables users to access real-time weather information for any city worldwide. It utilizes the OpenWeatherMap API to fetch and display accurate weather data, including temperature, humidity, and wind speed.
 
 ## Features
